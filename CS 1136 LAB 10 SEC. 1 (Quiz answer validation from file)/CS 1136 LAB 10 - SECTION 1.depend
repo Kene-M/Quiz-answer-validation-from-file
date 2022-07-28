@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651254604 source:c:\users\madua\onedrive\documents\c++\cs 1136 lab 10 - section 1\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<string>
+
